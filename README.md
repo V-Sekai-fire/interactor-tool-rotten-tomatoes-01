@@ -12,7 +12,7 @@ It trains a binary classifier on a table of reviews. The review text goes throug
 python build.py
 ```
 
-It needs the `ludwig` and `pandas` Python packages.
+It needs `pandas`, Ludwig with its LLM extras, `bitsandbytes` for the 4-bit quantisation, and a CUDA GPU.
 
 ## Licence
 
