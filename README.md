@@ -16,4 +16,4 @@ It needs `pandas`, Ludwig with its LLM extras, `bitsandbytes` for the 4-bit quan
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
